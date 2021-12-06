@@ -7,9 +7,6 @@ void main() {
   runApp(const MyApp());
 }
 
-String? codeDialog;
-String? valueText;
-
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 

@@ -1,5 +1,4 @@
 // ignore_for_file: non_constant_identifier_names
-
 class DataPenjualan {
   final int? id;
   final String? nama_barang;
