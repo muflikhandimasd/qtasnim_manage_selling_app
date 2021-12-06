@@ -2,7 +2,7 @@
     package="com.example.qtasnim_manage_selling_app">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="qtasnim_manage_selling_app"
+        android:label="Data Table Qtasnim"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
